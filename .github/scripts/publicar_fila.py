@@ -177,6 +177,9 @@ def main():
 
 if __name__ == "__main__":
     try:
+        if os.environ.get("SO_VERIFICAR") == "1":   # confere o token sem publicar nada
+            print(f"TOKEN OK: conta @{IG().usuario()}")
+            sys.exit(0)
         main()
     except KeyError as e:
         sys.exit(f"falta o segredo {e} no repositório (Settings > Secrets and variables > Actions)")
