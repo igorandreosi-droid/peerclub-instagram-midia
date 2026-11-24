@@ -1,0 +1,24 @@
+{
+  "id": "2026-11-24-1200-lancamento",
+  "publicar_em": "2026-11-24T12:00-03:00",
+  "tipo": "imagem",
+  "serie": "lancamento",
+  "tentativas": 1,
+  "quando": "2026-11-24T15:00:31+00:00",
+  "status": "publicado",
+  "media_id": "18001655562030259",
+  "link": "https://www.instagram.com/p/DgIOkd8mNHi/",
+  "colaboradores": [
+    "igorandreosi"
+  ],
+  "midias": [
+    "https://raw.githubusercontent.com/igorandreosi-droid/peerclub-instagram-midia/main/posts/2026-11-23/imagem-1795481451/01.jpg"
+  ],
+  "story": {
+    "media_id": "18235666252325190",
+    "link": "https://www.instagram.com/stories/peergroupclub/4037541374534940616",
+    "marcados": [
+      "igorandreosi"
+    ]
+  }
+}
