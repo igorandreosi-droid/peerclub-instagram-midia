@@ -1,0 +1,27 @@
+{
+  "id": "2026-11-28-1200-lancamento",
+  "publicar_em": "2026-11-28T12:00-03:00",
+  "tipo": "carrossel",
+  "serie": "lancamento",
+  "tentativas": 1,
+  "quando": "2026-11-28T15:00:30+00:00",
+  "status": "publicado",
+  "media_id": "17969813193214925",
+  "link": "https://www.instagram.com/p/DgShyF2oIOZ/",
+  "colaboradores": [
+    "igorandreosi"
+  ],
+  "midias": [
+    "https://raw.githubusercontent.com/igorandreosi-droid/peerclub-instagram-midia/main/posts/2026-11-25/carrossel-1795632144/01.jpg",
+    "https://raw.githubusercontent.com/igorandreosi-droid/peerclub-instagram-midia/main/posts/2026-11-25/carrossel-1795632144/02.jpg",
+    "https://raw.githubusercontent.com/igorandreosi-droid/peerclub-instagram-midia/main/posts/2026-11-25/carrossel-1795632144/03.jpg",
+    "https://raw.githubusercontent.com/igorandreosi-droid/peerclub-instagram-midia/main/posts/2026-11-25/carrossel-1795632144/04.jpg"
+  ],
+  "story": {
+    "media_id": "18021977882978246",
+    "link": "https://www.instagram.com/stories/peergroupclub/4040440626928439801",
+    "marcados": [
+      "igorandreosi"
+    ]
+  }
+}
